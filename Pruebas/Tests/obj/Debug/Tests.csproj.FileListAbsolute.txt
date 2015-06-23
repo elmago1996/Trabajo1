@@ -1,0 +1,5 @@
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Tests\bin\Debug\Tests.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Tests\bin\Debug\Tests.pdb
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Tests\obj\Debug\Tests.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Tests\obj\Debug\Tests.pdb

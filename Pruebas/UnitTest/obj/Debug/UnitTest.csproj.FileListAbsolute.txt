@@ -1,0 +1,14 @@
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\bin\Debug\UnitTest.dll.config
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\bin\Debug\BussinesLayer.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\bin\Debug\DataModeler.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\bin\Debug\BussinesLayer.pdb
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\bin\Debug\DataModeler.pdb
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\UnitTest\obj\Debug\UnitTest.pdb

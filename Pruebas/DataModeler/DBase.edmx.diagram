@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d23c81c48e624767a6ad25a253837d3f" Name="Diagram1">
+        <EntityTypeShape EntityType="DeliveryFastFoodModel.Combo" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliveryFastFoodModel.Producto" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliveryFastFoodModel.Producto_Combo" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliveryFastFoodModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliveryFastFoodModel.Usuario" Width="1.5" PointX="1.5" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliveryFastFoodModel.Venta" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DeliveryFastFoodModel.VentaDetalle" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="DeliveryFastFoodModel.FK_Producto_Combo_Combo" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliveryFastFoodModel.FK_VentaDetalle_Combo" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliveryFastFoodModel.FK_Producto_Combo_Producto" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliveryFastFoodModel.FK_Venta_Usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DeliveryFastFoodModel.FK_VentaDetalle_Venta" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

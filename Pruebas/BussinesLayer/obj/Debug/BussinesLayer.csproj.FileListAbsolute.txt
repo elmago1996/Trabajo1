@@ -1,0 +1,9 @@
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\BussinesLayer\bin\Debug\BussinesLayer.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\BussinesLayer\bin\Debug\BussinesLayer.pdb
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\BussinesLayer\bin\Debug\DataModeler.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\BussinesLayer\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\BussinesLayer\bin\Debug\DataModeler.pdb
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\BussinesLayer\bin\Debug\EntityFramework.xml
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\BussinesLayer\obj\Debug\BussinesLayer.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\BussinesLayer\obj\Debug\BussinesLayer.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\BussinesLayer\obj\Debug\BussinesLayer.pdb

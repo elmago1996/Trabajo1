@@ -1,0 +1,15 @@
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\bin\Debug\BussinesLayer.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\bin\Debug\BussinesLayer.pdb
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\obj\Debug\Pruebas.Form1.resources
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\bin\Debug\DataModeler.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\bin\Debug\DataModeler.pdb
+C:\Users\Pedro\Source\Workspaces\DeliveyForm\Pruebas\Pruebas\bin\Debug\EntityFramework.xml
