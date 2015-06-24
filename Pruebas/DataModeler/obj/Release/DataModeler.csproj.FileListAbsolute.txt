@@ -1,0 +1,8 @@
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\DataModeler\bin\Release\DataModeler.dll.config
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\DataModeler\bin\Release\DataModeler.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\DataModeler\bin\Release\DataModeler.pdb
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\DataModeler\bin\Release\EntityFramework.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\DataModeler\bin\Release\EntityFramework.xml
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\DataModeler\obj\Release\DataModeler.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\DataModeler\obj\Release\DataModeler.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\DataModeler\obj\Release\DataModeler.pdb

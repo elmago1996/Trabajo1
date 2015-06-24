@@ -1,0 +1,9 @@
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\BussinesLayer\bin\Release\BussinesLayer.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\BussinesLayer\bin\Release\BussinesLayer.pdb
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\BussinesLayer\bin\Release\DataModeler.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\BussinesLayer\bin\Release\EntityFramework.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\BussinesLayer\bin\Release\DataModeler.pdb
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\BussinesLayer\bin\Release\EntityFramework.xml
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\BussinesLayer\obj\Release\BussinesLayer.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\BussinesLayer\obj\Release\BussinesLayer.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\BussinesLayer\obj\Release\BussinesLayer.pdb

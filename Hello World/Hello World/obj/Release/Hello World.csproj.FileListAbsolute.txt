@@ -1,0 +1,6 @@
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Hello World\Hello World\bin\Release\Hello World.exe.config
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Hello World\Hello World\bin\Release\Hello World.exe
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Hello World\Hello World\bin\Release\Hello World.pdb
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Hello World\Hello World\obj\Release\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Hello World\Hello World\obj\Release\Hello World.exe
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Hello World\Hello World\obj\Release\Hello World.pdb

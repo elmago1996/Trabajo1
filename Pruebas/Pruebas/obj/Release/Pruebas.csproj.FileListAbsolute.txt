@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\bin\Release\Pruebas.exe.config
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\bin\Release\Pruebas.exe
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\bin\Release\Pruebas.pdb
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\bin\Release\BussinesLayer.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\bin\Release\DataModeler.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\bin\Release\EntityFramework.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\bin\Release\BussinesLayer.pdb
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\bin\Release\DataModeler.pdb
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\bin\Release\EntityFramework.xml
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\obj\Release\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\obj\Release\Pruebas.Form1.resources
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\obj\Release\Pruebas.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\obj\Release\Pruebas.csproj.GenerateResource.Cache
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\obj\Release\Pruebas.exe
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\Pruebas\obj\Release\Pruebas.pdb

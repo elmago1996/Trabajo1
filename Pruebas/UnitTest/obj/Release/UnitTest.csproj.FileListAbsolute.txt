@@ -1,0 +1,14 @@
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\bin\Release\UnitTest.dll.config
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\bin\Release\UnitTest.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\bin\Release\UnitTest.pdb
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\bin\Release\BussinesLayer.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\bin\Release\DataModeler.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\bin\Release\EntityFramework.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\bin\Release\nunit.framework.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\bin\Release\BussinesLayer.pdb
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\bin\Release\DataModeler.pdb
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\bin\Release\EntityFramework.xml
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\bin\Release\nunit.framework.xml
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\obj\Release\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\obj\Release\UnitTest.dll
+C:\Users\Pedro\Desktop\Repositorio GIT\Trabajo1\Pruebas\UnitTest\obj\Release\UnitTest.pdb
