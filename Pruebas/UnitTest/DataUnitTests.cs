@@ -216,6 +216,17 @@ namespace UnitTest
 
         }
 
+        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        [Test]
+
+        public void Existen_Usuarios_en_tabla()
+        {
+            UsuarioBL usuario = new UsuarioBL();
+            bool actual = usuario.Existen_Usuarios_en_tabla();
+            Assert.AreEqual(esperado, actual);
+        }
+
 
     }
 }
