@@ -11,14 +11,14 @@ namespace UnitTest
     [TestClass]
     public class UnitTests
     {
-        //string ok;
-        //string username = "elmago1996";
-        //string password = "993800340";
-        //string producto_ID = "dffd23";
-        //string nombre_producto = "dfgdf";
+        string ok;
+        string username = "elmago1996";
+        string password = "993800340";
+        string producto_ID = "dffd23";
+        string nombre_producto = "dfgdf";
 
-        //bool esperado = true;
-        //int stock_esperado = 325;
+        bool esperado = true;
+        int stock_esperado = 325;
 
         //[TestMethod]
 
@@ -232,30 +232,30 @@ namespace UnitTest
         //}
 
 
-        //// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-        //[TestMethod]
+        [TestMethod]
 
-        //public void Contraseña_CorrectaTest()
-        //{
-        //    string user_input = username;
-        //    string pass_input = password;
-        //    UsuarioBL usuario = new UsuarioBL();
-        //    bool actual = usuario.Contraseña_Correcta(user_input, pass_input);
-        //    Assert.AreEqual(esperado, actual);
-        //}
+        public void Contraseña_CorrectaTest()
+        {
+            string user_input = username;
+            string pass_input = password;
+            UsuarioBL usuario = new UsuarioBL();
+            bool actual = usuario.Contraseña_Correcta(user_input, pass_input);
+            Assert.AreEqual(esperado, actual);
+        }
 
 
-        ////~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-        //[TestMethod]
+        [TestMethod]
 
-        //public void Existen_Usuarios_en_tabla()
-        //{
-        //    UsuarioBL usuario = new UsuarioBL();
-        //    bool actual = usuario.Existen_Usuarios_en_tabla();
-        //    Assert.AreEqual(esperado, actual);
-        //}
+        public void Existen_Usuarios_en_tabla()
+        {
+            UsuarioBL usuario = new UsuarioBL();
+            bool actual = usuario.Existen_Usuarios_en_tabla();
+            Assert.AreEqual(esperado, actual);
+        }
 
 
         ////~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

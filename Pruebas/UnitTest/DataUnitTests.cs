@@ -216,17 +216,68 @@ namespace UnitTest
 
         }
 
-        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~DB TEST
 
         [Test]
 
-        public void Existen_Usuarios_en_tabla()
+        public void Existen_Usuarios_en_tabla_UNIT()
         {
             UsuarioBL usuario = new UsuarioBL();
             bool actual = usuario.Existen_Usuarios_en_tabla();
             Assert.AreEqual(esperado, actual);
         }
 
+
+        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        [Test]
+
+        public void Contraseña_CorrectaTest_UNIT()
+        {
+            string user_input = username;
+            string pass_input = password;
+            UsuarioBL usuario = new UsuarioBL();
+            bool actual = usuario.Contraseña_Correcta(user_input, pass_input);
+            Assert.AreEqual(esperado, actual);
+        }
+
+
+        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        [Test]
+
+        public void Cuanto_stock_tengo_Producto_Test_UNIT()
+        {
+            ProductoBL producto = new ProductoBL();
+            int stock_actual = producto.Cuanto_stock_tengo_Producto(producto_ID);
+            Assert.AreEqual(stock_esperado, stock_actual);
+        }
+
+
+        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        [Test]
+
+        public void Dame_Nombre_Producto_UNIT()
+        {
+            string esperado = nombre_producto;
+            ProductoBL producto = new ProductoBL();
+            string actual = producto.Dame_Nombre_Producto(producto_ID);
+            Assert.AreEqual(esperado, actual);
+        }
+
+
+        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        [Test]
+
+        public void Dame_Codigo_Producto_Test_UNIT()
+        {
+            string esperado = producto_ID;
+            ProductoBL producto = new ProductoBL();
+            string actual = producto.Dame_Codigo_Producto(nombre_producto);
+            Assert.AreEqual(esperado, actual);
+        }
 
     }
 }
